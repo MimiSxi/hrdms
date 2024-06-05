@@ -1,0 +1,2 @@
+com.hrdms.common.log.service.AsyncLogService
+com.hrdms.common.log.aspect.LogAspect

@@ -1,0 +1,3 @@
+com.hrdms.system.api.factory.RemoteUserFallbackFactory
+com.hrdms.system.api.factory.RemoteLogFallbackFactory
+com.hrdms.system.api.factory.RemoteFileFallbackFactory

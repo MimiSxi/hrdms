@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.hrdms</groupId>
+        <artifactId>hrdms</artifactId>
+        <version>3.6.4</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>hrdms-common-log</module>
+        <module>hrdms-common-core</module>
+        <module>hrdms-common-redis</module>
+        <module>hrdms-common-seata</module>
+        <module>hrdms-common-swagger</module>
+        <module>hrdms-common-security</module>
+        <module>hrdms-common-sensitive</module>
+        <module>hrdms-common-datascope</module>
+        <module>hrdms-common-datasource</module>
+    </modules>
+
+    <artifactId>hrdms-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        hrdms-common通用模块
+    </description>
+
+</project>
